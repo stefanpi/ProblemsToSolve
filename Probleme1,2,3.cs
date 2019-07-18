@@ -25,9 +25,9 @@ namespace Test
         //{
         //    List<string> myList = new List<string>();
 
-        //    foreach (var cm in p2l)
+        //    foreach (var item in myList)
         //    {
-        //        var textFromFile = System.IO.File.ReadAllText(cm);
+        //        var textFromFile = System.IO.File.ReadAllText(item);
         //        myList.Add(textFromFile);
         //    }
         //    System.IO.File.WriteAllLines(@"C:\\Users\\Stefan\\Desktop\\outputFile.txt", myList);
